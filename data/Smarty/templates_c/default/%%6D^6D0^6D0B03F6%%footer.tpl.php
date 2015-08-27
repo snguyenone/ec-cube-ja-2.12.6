@@ -1,7 +1,7 @@
-<?php /* Smarty version 2.6.26, created on 2015-08-26 15:14:02
-         compiled from D:%5CXampp11%5Chtdocs%5Ceccube-2.12.6%5Chtml/../data/Smarty/templates/default/footer.tpl */ ?>
+<?php /* Smarty version 2.6.26, created on 2015-08-27 17:32:19
+         compiled from D:%5CXampp11%5Chtdocs%5CMyProjects%5Ceccube%5Cec-cube-ja-2.12.6%5Chtml/../data/Smarty/templates/default/footer.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('modifier', 'script_escape', 'D:\\Xampp11\\htdocs\\eccube-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 28, false),array('modifier', 'date_format', 'D:\\Xampp11\\htdocs\\eccube-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 28, false),array('modifier', 'default', 'D:\\Xampp11\\htdocs\\eccube-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 29, false),array('modifier', 'h', 'D:\\Xampp11\\htdocs\\eccube-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 29, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'script_escape', 'D:\\Xampp11\\htdocs\\MyProjects\\eccube\\ec-cube-ja-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 28, false),array('modifier', 'date_format', 'D:\\Xampp11\\htdocs\\MyProjects\\eccube\\ec-cube-ja-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 28, false),array('modifier', 'default', 'D:\\Xampp11\\htdocs\\MyProjects\\eccube\\ec-cube-ja-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 29, false),array('modifier', 'h', 'D:\\Xampp11\\htdocs\\MyProjects\\eccube\\ec-cube-ja-2.12.6\\html/../data/Smarty/templates/default/footer.tpl', 29, false),)), $this); ?>
 
 <!--▼FOOTER-->
 <div id="footer_wrap">

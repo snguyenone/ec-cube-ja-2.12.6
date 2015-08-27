@@ -1,7 +1,7 @@
-<?php /* Smarty version 2.6.26, created on 2015-08-26 15:14:02
-         compiled from D:%5CXampp11%5Chtdocs%5Ceccube-2.12.6%5Chtml/../data/Smarty/templates/default/header.tpl */ ?>
+<?php /* Smarty version 2.6.26, created on 2015-08-27 17:32:17
+         compiled from D:%5CXampp11%5Chtdocs%5CMyProjects%5Ceccube%5Cec-cube-ja-2.12.6%5Chtml/../data/Smarty/templates/default/header.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('modifier', 'script_escape', 'D:\\Xampp11\\htdocs\\eccube-2.12.6\\html/../data/Smarty/templates/default/header.tpl', 29, false),array('modifier', 'h', 'D:\\Xampp11\\htdocs\\eccube-2.12.6\\html/../data/Smarty/templates/default/header.tpl', 29, false),array('modifier', 'count', 'D:\\Xampp11\\htdocs\\eccube-2.12.6\\html/../data/Smarty/templates/default/header.tpl', 35, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'script_escape', 'D:\\Xampp11\\htdocs\\MyProjects\\eccube\\ec-cube-ja-2.12.6\\html/../data/Smarty/templates/default/header.tpl', 29, false),array('modifier', 'h', 'D:\\Xampp11\\htdocs\\MyProjects\\eccube\\ec-cube-ja-2.12.6\\html/../data/Smarty/templates/default/header.tpl', 29, false),array('modifier', 'count', 'D:\\Xampp11\\htdocs\\MyProjects\\eccube\\ec-cube-ja-2.12.6\\html/../data/Smarty/templates/default/header.tpl', 35, false),)), $this); ?>
 
 <!--▼HEADER-->
 <div id="header_wrap">
