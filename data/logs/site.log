@@ -1,0 +1,16 @@
+2015/08/26 12:03:14 [/index.php] PAGE_DISPLAY_TIME_LOG [2,44sec] from 127.0.0.1
+2015/08/26 12:03:16 [/index.php] PAGE_DISPLAY_TIME_LOG [2,11sec] from 127.0.0.1
+2015/08/26 12:03:16 [/index.php] PAGE_DISPLAY_TIME_LOG [2,25sec] from 127.0.0.1
+2015/08/26 12:03:16 [/index.php] PAGE_DISPLAY_TIME_LOG [2,38sec] from 127.0.0.1
+2015/08/26 12:06:42 [/index.php] PAGE_DISPLAY_TIME_LOG [2,19sec] from 127.0.0.1
+2015/08/26 12:08:31 [/index.php] PAGE_DISPLAY_TIME_LOG [2,13sec] from 127.0.0.1
+2015/08/26 12:09:11 [/index.php] PAGE_DISPLAY_TIME_LOG [2,10sec] from 127.0.0.1
+2015/08/26 12:36:37 [/index.php] PAGE_DISPLAY_TIME_LOG [2,14sec] from 127.0.0.1
+2015/08/26 12:38:06 [/index.php] PAGE_DISPLAY_TIME_LOG [2,19sec] from 127.0.0.1
+2015/08/26 12:38:06 [/index.php] PAGE_DISPLAY_TIME_LOG [2,41sec] from 127.0.0.1
+2015/08/26 18:46:09 [/news/detail.php] PAGE_DISPLAY_TIME_LOG [2,48sec] from 127.0.0.1
+2015/08/26 19:12:58 [/news/detail.php] PAGE_DISPLAY_TIME_LOG [2,71sec] from 127.0.0.1
+2015/08/27 13:39:37 [/news/detail.php] PAGE_DISPLAY_TIME_LOG [5,28sec] from 127.0.0.1
+2015/08/27 13:58:05 [/news/detail.php] PAGE_DISPLAY_TIME_LOG [2,00sec] from 127.0.0.1
+2015/08/27 16:03:50 [/news/detail.php] PAGE_DISPLAY_TIME_LOG [2,03sec] from 127.0.0.1
+2015/08/27 16:22:34 [/news/detail.php] PAGE_DISPLAY_TIME_LOG [3,63sec] from 127.0.0.1

@@ -1,0 +1,22 @@
+<?php
+define('ECCUBE_INSTALL', 'ON');
+define('HTTP_URL', 'http://eccube-ja-2.12.6.local/');
+define('HTTPS_URL', 'http://eccube-ja-2.12.6.local/');
+define('ROOT_URLPATH', '/');
+define('DOMAIN_NAME', '');
+define('DB_TYPE', 'mysql');
+define('DB_USER', 'root');
+define('DB_PASSWORD', 'admin123');
+define('DB_SERVER', '127.0.0.1');
+define('DB_NAME', 'eccube-test');
+define('DB_PORT', '');
+define('ADMIN_DIR', 'admin/');
+define('ADMIN_FORCE_SSL', FALSE);
+define('ADMIN_ALLOW_HOSTS', 'a:0:{}');
+define('AUTH_MAGIC', 'jeaviodarouthaphaidregouijiochastiaruhia');
+define('PASSWORD_HASH_ALGOS', 'sha256');
+define('MAIL_BACKEND', 'mail');
+define('SMTP_HOST', '');
+define('SMTP_PORT', '');
+define('SMTP_USER', '');
+define('SMTP_PASSWORD', '');
